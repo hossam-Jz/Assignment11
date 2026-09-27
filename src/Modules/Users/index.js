@@ -1,0 +1,1 @@
+export {default as userConroller} from "./user.controller.js"
